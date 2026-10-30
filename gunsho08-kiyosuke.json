@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kiyosuke-utaawase",
  "yomi": "たいこうたいごうぐうのだいしんきよすけあそんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "永暦元年（1160）7月",
+  "author": "主催 藤原清輔／判者 源通能",
+  "desc": "太皇太后宮大進藤原清輔の家で催された歌合。桜・時鳥・紅葉・雪・恋・述懐などの題で詠み、左近少将源通能が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
